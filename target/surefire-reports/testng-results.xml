@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MusafirWebsite" duration-ms="103772" started-at="2019-08-28T13:07:48Z" finished-at="2019-08-28T13:09:32Z">
+    <groups>
+    </groups>
+    <test name="MusafirMB Test" duration-ms="103772" started-at="2019-08-28T13:07:48Z" finished-at="2019-08-28T13:09:32Z">
+      <class name="com.musafirwebsite.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setupBrowser(java.lang.String)[pri:0, instance:com.musafirwebsite.testCases.TC_LoginTest_001@2812cbfa]" name="setupBrowser" is-config="true" duration-ms="13551" started-at="2019-08-28T13:07:49Z" finished-at="2019-08-28T13:08:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.musafirwebsite.testCases.TC_LoginTest_001@2812cbfa]" name="loginTest" duration-ms="26833" started-at="2019-08-28T13:08:02Z" finished-at="2019-08-28T13:08:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.musafirwebsite.testCases.TC_LoginTest_001@2812cbfa]" name="closeBrowser" is-config="true" duration-ms="3777" started-at="2019-08-28T13:08:29Z" finished-at="2019-08-28T13:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.musafirwebsite.testCases.TC_LoginTest_001 -->
+      <class name="com.musafirwebsite.testCases.TC_AddNewTrips_003">
+        <test-method status="PASS" signature="setupBrowser(java.lang.String)[pri:0, instance:com.musafirwebsite.testCases.TC_AddNewTrips_003@2acf57e3]" name="setupBrowser" is-config="true" duration-ms="14399" started-at="2019-08-28T13:08:33Z" finished-at="2019-08-28T13:08:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBrowser -->
+        <test-method status="PASS" signature="addNewTrip()[pri:0, instance:com.musafirwebsite.testCases.TC_AddNewTrips_003@2acf57e3]" name="addNewTrip" duration-ms="40790" started-at="2019-08-28T13:08:48Z" finished-at="2019-08-28T13:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewTrip -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.musafirwebsite.testCases.TC_AddNewTrips_003@2acf57e3]" name="closeBrowser" is-config="true" duration-ms="3768" started-at="2019-08-28T13:09:28Z" finished-at="2019-08-28T13:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.musafirwebsite.testCases.TC_AddNewTrips_003 -->
+    </test> <!-- MusafirMB Test -->
+  </suite> <!-- MusafirWebsite -->
+</testng-results>

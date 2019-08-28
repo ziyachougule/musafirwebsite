@@ -1,0 +1,231 @@
+2019-08-23 21:19:21,646 - BaseClass -INFO - URL is opened
+2019-08-23 21:26:37,308 - BaseClass -INFO - URL is opened
+2019-08-23 21:26:39,118 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-23 21:26:42,649 - BaseClass -INFO - Login test passed
+2019-08-24 16:02:31,758 - BaseClass -INFO - URL is opened
+2019-08-24 16:02:59,960 - BaseClass -INFO - URL is opened
+2019-08-24 16:03:02,525 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-24 16:03:25,306 - BaseClass -INFO - Login test passed
+2019-08-24 16:54:42,223 - BaseClass -INFO - URL is opened
+2019-08-24 16:55:08,810 - BaseClass -INFO - URL is opened
+2019-08-24 16:55:43,548 - BaseClass -INFO - URL is opened
+2019-08-24 16:55:45,820 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-24 19:32:48,301 - BaseClass -INFO - URL is opened
+2019-08-24 19:33:18,708 - BaseClass -INFO - URL is opened
+2019-08-24 19:33:43,907 - BaseClass -INFO - URL is opened
+2019-08-24 19:33:46,693 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-24 19:34:00,028 - BaseClass -INFO - Login test passed
+2019-08-24 19:35:22,940 - BaseClass -INFO - URL is opened
+2019-08-24 19:36:49,455 - BaseClass -INFO - URL is opened
+2019-08-24 19:40:20,361 - BaseClass -INFO - URL is opened
+2019-08-24 20:12:31,369 - BaseClass -INFO - URL is opened
+2019-08-24 20:13:07,658 - BaseClass -INFO - URL is opened
+2019-08-24 20:13:44,451 - BaseClass -INFO - URL is opened
+2019-08-24 20:14:28,112 - BaseClass -INFO - URL is opened
+2019-08-24 20:17:52,993 - BaseClass -INFO - URL is opened
+2019-08-24 20:18:35,389 - BaseClass -INFO - URL is opened
+2019-08-24 20:18:37,593 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-24 20:18:56,959 - BaseClass -INFO - Login test passed
+2019-08-24 21:09:18,586 - BaseClass -INFO - URL is opened
+2019-08-24 21:10:10,595 - BaseClass -INFO - URL is opened
+2019-08-24 21:10:38,421 - BaseClass -INFO - URL is opened
+2019-08-24 21:10:40,862 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-24 21:10:54,713 - BaseClass -INFO - Login test passed
+2019-08-24 23:17:34,255 - BaseClass -INFO - URL is opened
+2019-08-24 23:18:02,143 - BaseClass -INFO - URL is opened
+2019-08-24 23:18:04,106 - BaseClass -INFO - Clicked on Login Button by entering email and password
+2019-08-25 11:50:22,514 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 11:53:53,316 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 11:56:06,077 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 11:58:30,093 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 11:58:34,532 - BaseClass -INFO - Login test passed
+2019-08-25 12:04:06,099 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:04:10,096 - BaseClass -INFO - Login test passed
+2019-08-25 12:13:07,766 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:13:11,545 - BaseClass -INFO - Login test passed
+2019-08-25 12:17:27,025 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:29:38,444 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:31:40,042 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:33:30,099 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:36:18,371 - BaseClass -INFO - Clicked on Login Button by entering email & password. After that clicked on logout
+2019-08-25 12:47:04,111 - BaseClass -INFO - URL is opened
+2019-08-25 12:47:09,148 - BaseClass -INFO - Entered email
+2019-08-25 12:47:09,303 - BaseClass -INFO - Entered password
+2019-08-25 12:47:25,550 - BaseClass -INFO - Login test passed
+2019-08-25 12:49:33,169 - BaseClass -INFO - Entered email
+2019-08-25 12:49:33,357 - BaseClass -INFO - Entered password
+2019-08-25 12:49:33,506 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 12:50:55,727 - BaseClass -INFO - Entered email
+2019-08-25 12:50:55,920 - BaseClass -INFO - Entered password
+2019-08-25 12:50:56,006 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 12:51:19,893 - BaseClass -INFO - Entered email
+2019-08-25 12:51:20,133 - BaseClass -INFO - Entered password
+2019-08-25 12:51:20,286 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:00:10,145 - BaseClass -INFO - Entered email
+2019-08-25 14:00:10,295 - BaseClass -INFO - Entered password
+2019-08-25 14:00:10,380 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:00:50,001 - BaseClass -INFO - Entered email
+2019-08-25 14:00:50,173 - BaseClass -INFO - Entered password
+2019-08-25 14:00:50,259 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:00:50,674 - BaseClass -INFO - Entered email
+2019-08-25 14:01:19,804 - BaseClass -INFO - Entered email
+2019-08-25 14:01:19,991 - BaseClass -INFO - Entered password
+2019-08-25 14:01:20,088 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:01:28,242 - BaseClass -INFO - Entered email
+2019-08-25 14:02:38,439 - BaseClass -INFO - Entered email
+2019-08-25 14:02:38,616 - BaseClass -INFO - Entered password
+2019-08-25 14:02:38,712 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:02:49,763 - BaseClass -INFO - Login test passed
+2019-08-25 14:02:51,610 - BaseClass -INFO - Entered email
+2019-08-25 14:02:51,802 - BaseClass -INFO - Entered password
+2019-08-25 14:02:51,894 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:04:16,847 - BaseClass -INFO - Entered email
+2019-08-25 14:04:17,059 - BaseClass -INFO - Entered password
+2019-08-25 14:04:17,192 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 14:04:25,410 - BaseClass -INFO - Login test passed
+2019-08-25 14:04:27,225 - BaseClass -INFO - Entered email
+2019-08-25 14:04:27,394 - BaseClass -INFO - Entered password
+2019-08-25 14:04:27,513 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 15:00:15,075 - BaseClass -INFO - Entered email
+2019-08-25 15:00:15,289 - BaseClass -INFO - Entered password
+2019-08-25 15:00:15,387 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 15:00:31,931 - BaseClass -INFO - Login test passed
+2019-08-25 15:00:33,593 - BaseClass -INFO - Entered email
+2019-08-25 15:00:33,748 - BaseClass -INFO - Entered password
+2019-08-25 15:00:33,847 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 15:07:31,376 - BaseClass -INFO - Entered email
+2019-08-25 15:07:31,565 - BaseClass -INFO - Entered password
+2019-08-25 15:07:31,658 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 15:07:39,173 - BaseClass -INFO - Login test passed
+2019-08-25 15:07:43,583 - BaseClass -INFO - Entered email
+2019-08-25 15:07:43,775 - BaseClass -INFO - Entered password
+2019-08-25 15:07:45,242 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 15:11:56,858 - BaseClass -INFO - Entered email
+2019-08-25 15:11:57,051 - BaseClass -INFO - Entered password
+2019-08-25 15:11:57,143 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 15:12:08,901 - BaseClass -INFO - Login test passed
+2019-08-25 15:12:10,800 - BaseClass -INFO - Entered email
+2019-08-25 15:12:10,982 - BaseClass -INFO - Entered password
+2019-08-25 15:12:11,104 - BaseClass -INFO - Clicked on Login Button
+2019-08-25 16:49:13,211 - BaseClass -INFO - Logged in using admin
+2019-08-25 16:49:34,106 - BaseClass -INFO - Adding trip details
+2019-08-25 16:49:34,674 - BaseClass -INFO - Clicked on create trip
+2019-08-25 16:49:37,674 - BaseClass -INFO - Validation started
+2019-08-25 16:49:37,714 - BaseClass -INFO - Test case is failed
+2019-08-25 17:00:11,812 - BaseClass -INFO - Logged in using admin
+2019-08-25 17:00:20,156 - BaseClass -INFO - Adding trip details
+2019-08-25 17:00:24,769 - BaseClass -INFO - Clicked on create trip
+2019-08-25 17:00:27,770 - BaseClass -INFO - Validation started
+2019-08-25 17:00:27,793 - BaseClass -INFO - Test case is failed
+2019-08-25 17:01:12,002 - BaseClass -INFO - Logged in using admin
+2019-08-25 17:01:21,511 - BaseClass -INFO - Adding trip details
+2019-08-25 17:01:29,390 - BaseClass -INFO - Clicked on create trip
+2019-08-25 17:01:32,391 - BaseClass -INFO - Validation started
+2019-08-25 17:01:32,446 - BaseClass -INFO - Test case is passed
+2019-08-26 20:04:17,680 - BaseClass -INFO - URL is opened
+2019-08-26 20:04:19,444 - BaseClass -INFO - Entered email
+2019-08-26 20:04:19,681 - BaseClass -INFO - Entered password
+2019-08-26 20:04:19,817 - BaseClass -INFO - Clicked on Login Button
+2019-08-26 20:04:29,164 - BaseClass -INFO - Login test passed
+2019-08-26 20:04:47,088 - BaseClass -INFO - Entered email
+2019-08-26 20:04:47,301 - BaseClass -INFO - Entered password
+2019-08-26 20:04:47,457 - BaseClass -INFO - Clicked on Login Button
+2019-08-26 20:04:57,430 - BaseClass -INFO - Login test passed
+2019-08-26 20:04:59,605 - BaseClass -INFO - Entered email
+2019-08-26 20:04:59,816 - BaseClass -INFO - Entered password
+2019-08-26 20:05:00,048 - BaseClass -INFO - Clicked on Login Button
+2019-08-26 20:05:19,647 - BaseClass -INFO - Logged in using admin
+2019-08-26 20:05:32,126 - BaseClass -INFO - Adding trip details
+2019-08-26 20:05:39,671 - BaseClass -INFO - Clicked on create trip
+2019-08-26 20:05:42,677 - BaseClass -INFO - Validation started
+2019-08-26 20:05:42,806 - BaseClass -INFO - Test case is passed
+2019-08-26 21:51:46,949 - BaseClass -INFO - URL is opened
+2019-08-26 21:51:49,042 - BaseClass -INFO - Entered email
+2019-08-26 21:51:49,286 - BaseClass -INFO - Entered password
+2019-08-26 21:51:49,413 - BaseClass -INFO - Clicked on Login Button
+2019-08-26 21:51:57,030 - BaseClass -INFO - Login test passed
+2019-08-26 21:52:09,467 - BaseClass -INFO - Logged in using admin
+2019-08-26 21:52:19,380 - BaseClass -INFO - Adding trip details
+2019-08-26 21:52:26,137 - BaseClass -INFO - Clicked on create trip
+2019-08-26 21:52:29,139 - BaseClass -INFO - Validation started
+2019-08-26 21:52:29,167 - BaseClass -INFO - Test case is passed
+2019-08-26 22:02:19,731 - BaseClass -INFO - URL is opened
+2019-08-26 22:02:23,190 - BaseClass -INFO - Entered email
+2019-08-26 22:02:23,406 - BaseClass -INFO - Entered password
+2019-08-26 22:02:23,518 - BaseClass -INFO - Clicked on Login Button
+2019-08-26 22:04:19,102 - BaseClass -INFO - Login test passed
+2019-08-26 22:10:02,915 - BaseClass -INFO - URL is opened
+2019-08-26 22:10:04,574 - BaseClass -INFO - Entered email
+2019-08-26 22:10:04,760 - BaseClass -INFO - Entered password
+2019-08-26 22:10:04,878 - BaseClass -INFO - Clicked on Login Button
+2019-08-26 22:10:39,238 - BaseClass -INFO - Login test passed
+2019-08-26 22:10:57,963 - BaseClass -INFO - Logged in using admin
+2019-08-26 22:11:12,635 - BaseClass -INFO - Adding trip details
+2019-08-26 22:11:19,264 - BaseClass -INFO - Clicked on create trip
+2019-08-26 22:11:22,267 - BaseClass -INFO - Validation started
+2019-08-26 22:11:22,310 - BaseClass -INFO - Test case is passed
+2019-08-27 08:18:31,226 - BaseClass -INFO - URL is opened
+2019-08-27 08:18:37,642 - BaseClass -INFO - Entered email
+2019-08-27 08:18:37,800 - BaseClass -INFO - Entered password
+2019-08-27 08:18:37,888 - BaseClass -INFO - Clicked on Login Button
+2019-08-27 08:18:44,785 - BaseClass -INFO - Login test passed
+2019-08-27 08:18:56,554 - BaseClass -INFO - Logged in using admin
+2019-08-27 08:19:05,020 - BaseClass -INFO - Adding trip details
+2019-08-27 08:19:11,437 - BaseClass -INFO - Clicked on create trip
+2019-08-27 08:19:14,443 - BaseClass -INFO - Validation started
+2019-08-27 08:19:14,478 - BaseClass -INFO - Test case is passed
+2019-08-27 08:26:22,674 - BaseClass -INFO - URL is opened
+2019-08-27 08:26:24,145 - BaseClass -INFO - Entered email
+2019-08-27 08:26:24,363 - BaseClass -INFO - Entered password
+2019-08-27 08:26:24,468 - BaseClass -INFO - Clicked on Login Button
+2019-08-27 08:26:28,493 - BaseClass -INFO - Login test passed
+2019-08-27 08:26:40,681 - BaseClass -INFO - Logged in using admin
+2019-08-27 08:26:46,960 - BaseClass -INFO - Adding trip details
+2019-08-27 08:26:53,882 - BaseClass -INFO - Clicked on create trip
+2019-08-27 08:26:56,883 - BaseClass -INFO - Validation started
+2019-08-27 08:26:56,913 - BaseClass -INFO - Test case is passed
+2019-08-27 08:35:03,399 - BaseClass -INFO - URL is opened
+2019-08-27 08:35:05,016 - BaseClass -INFO - Entered email
+2019-08-27 08:35:05,189 - BaseClass -INFO - Entered password
+2019-08-27 08:35:05,289 - BaseClass -INFO - Clicked on Login Button
+2019-08-27 08:35:09,426 - BaseClass -INFO - Login test passed
+2019-08-27 08:35:21,352 - BaseClass -INFO - Logged in using admin
+2019-08-27 08:35:28,312 - BaseClass -INFO - Adding trip details
+2019-08-27 08:35:33,674 - BaseClass -INFO - Clicked on create trip
+2019-08-27 08:35:36,676 - BaseClass -INFO - Validation started
+2019-08-27 08:35:36,711 - BaseClass -INFO - Test case is passed
+2019-08-27 22:55:52,098 - BaseClass -INFO - URL is opened
+2019-08-27 22:56:00,331 - BaseClass -INFO - Entered email
+2019-08-27 22:56:00,824 - BaseClass -INFO - Entered password
+2019-08-27 22:56:01,003 - BaseClass -INFO - Clicked on Login Button
+2019-08-27 22:56:19,755 - BaseClass -INFO - Login test passed
+2019-08-27 22:56:39,325 - BaseClass -INFO - Logged in using admin
+2019-08-27 22:57:06,552 - BaseClass -INFO - Adding trip details
+2019-08-27 22:57:16,348 - BaseClass -INFO - Clicked on create trip
+2019-08-27 22:57:19,349 - BaseClass -INFO - Validation started
+2019-08-27 22:57:19,443 - BaseClass -INFO - Test case is passed
+2019-08-27 23:02:52,487 - BaseClass -INFO - URL is opened
+2019-08-27 23:02:54,278 - BaseClass -INFO - Entered email
+2019-08-27 23:02:54,538 - BaseClass -INFO - Entered password
+2019-08-27 23:02:54,641 - BaseClass -INFO - Clicked on Login Button
+2019-08-27 23:03:06,716 - BaseClass -INFO - Login test passed
+2019-08-27 23:03:27,294 - BaseClass -INFO - Logged in using admin
+2019-08-27 23:03:40,298 - BaseClass -INFO - Adding trip details
+2019-08-27 23:03:47,620 - BaseClass -INFO - Clicked on create trip
+2019-08-27 23:03:50,621 - BaseClass -INFO - Validation started
+2019-08-27 23:03:50,759 - BaseClass -INFO - Test case is passed
+2019-08-27 23:44:27,052 - BaseClass -INFO - URL is opened
+2019-08-27 23:57:15,504 - BaseClass -INFO - URL is opened
+2019-08-28 00:24:21,185 - BaseClass -INFO - URL is opened
+2019-08-28 00:26:00,820 - BaseClass -INFO - URL is opened
+2019-08-28 00:53:48,596 - BaseClass -INFO - URL is opened
+2019-08-28 18:38:02,988 - BaseClass -INFO - URL is opened
+2019-08-28 18:38:11,795 - BaseClass -INFO - Entered email
+2019-08-28 18:38:11,997 - BaseClass -INFO - Entered password
+2019-08-28 18:38:12,123 - BaseClass -INFO - Clicked on Login Button
+2019-08-28 18:38:29,817 - BaseClass -INFO - Login test passed
+2019-08-28 18:38:52,262 - BaseClass -INFO - Logged in using admin
+2019-08-28 18:39:17,707 - BaseClass -INFO - Adding trip details
+2019-08-28 18:39:25,738 - BaseClass -INFO - Clicked on create trip
+2019-08-28 18:39:28,740 - BaseClass -INFO - Validation started
+2019-08-28 18:39:28,855 - BaseClass -INFO - Test case is passed
